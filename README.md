@@ -48,11 +48,17 @@ After rebooting you should have the autorotation working
 
 ## Tested Environments
 Hardware: ASUS TM420IA-EC065T
+
 OS: Fedora 38
+
 Kernel: 6.5.6
+
 DE: GNOME 44.5
+
 Window protocol: Wayland
+
 CPU: AMD Ryzen 5 4500U (Renoir)
+
 packages: 
 - iio-sensor-proxy: 3.4-3 
 
