@@ -17,4 +17,4 @@ amd_sfh-objs += amd_sfh_client.o
 amd_sfh-objs += amd_sfh_pcie.o
 amd_sfh-objs += hid_descriptor/amd_sfh_hid_desc.o
 
-ccflags-y += -I /home/paolo/git/amd-sfh-hid
+ccflags-y += -I $(PWD)
