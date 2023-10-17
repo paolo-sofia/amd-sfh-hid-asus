@@ -60,12 +60,6 @@ packages:
 - https://github.com/torvalds/linux/tree/master/drivers/hid/amd-sfh-hid
 - https://github.com/conqp/amd-sfh-hid-dkms
 
-
-## Code Contributors
-
-[[Contribute](CONTRIBUTING.md).
-<a href="https://github.com/paolo-sofia/amd-sfh-hid-dkms-asus/graphs/contributors"><img src="https://opencollective.com/readme-md-generator/contributors.svg?width=890&button=false" /></a>
-
 ## Contributing
 
 Contributions, issues and feature requests are welcome.<br />
