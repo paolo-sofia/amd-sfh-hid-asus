@@ -3,6 +3,8 @@ This repo contains an old version of the amd_sfh_hid driver that works for the A
 
 The code is taken from this [commit](https://github.com/torvalds/linux/commit/a6e757e3a1c723341004fe55403970f9c7b83f4c) of the linux kernel, released with version 5.16, as it was the only working version of the driver for this laptop series.
 
+## This code doesn't work anymore with Fedora 39 on kernel 6.7.4
+
 ## Installation
 
 1. Install dkms using your package manager, here's an example for ubuntu
